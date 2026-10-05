@@ -1,0 +1,3 @@
+[submodule "firmware/esp32cam_rs"]
+	path = firmware/esp32cam_rs
+	url = https://github.com/mikomac405/esp32cam_rs
